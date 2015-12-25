@@ -1,7 +1,11 @@
 ###################
-What is CodeIgniter
+Contoh Login dengan CI-3
 ###################
 
+Login 
+ini merupakan login sederhana dengan menggunakan ci-3 
+
+Codeigniter
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
 much faster than you could if you were writing code from scratch, by providing
